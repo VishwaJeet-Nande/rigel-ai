@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/rigel-banner.png" alt="Rigel AI Banner">
+</p>
+
 # Rigel AI
 
 ### Graph-Native Memory Intelligence Framework
